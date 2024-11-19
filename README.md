@@ -34,10 +34,13 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+
 HALF ADDER TRUTHTABLE
+
 ![half adder](https://github.com/user-attachments/assets/642f59a1-ba66-4f4e-8677-fbf629e811aa)
 
 HALF SUBTRACTOR TRUTHTABLE
+
 ![half-subtractor2](https://github.com/user-attachments/assets/210dbb9b-6e78-4f45-88a9-eab8a2906c8a)
 
 **Procedure**
@@ -60,6 +63,7 @@ HALF SUBTRACTOR TRUTHTABLE
 Developed by: RegisterNumber:*/ 24000839
 
 **RTL Schematic**
+
 RTL SCHEMATIC FOR HALF ADDER
 ![Screenshot 2024-11-12 051740](https://github.com/user-attachments/assets/3ffefc96-da03-4e1f-8fca-834c4a88c775)
 
@@ -67,6 +71,7 @@ RTL SCHEMATIC FOR HALF SUBTRACTOR
 ![Screenshot 2024-11-19 032008](https://github.com/user-attachments/assets/6314fe1f-e757-477a-8f77-9f55bb71e266)
 
 **Output/TIMING Waveform**
+
 HALF ADDER
 ![Screenshot 2024-11-12 054159](https://github.com/user-attachments/assets/448eb441-5078-49b8-82d0-092439f1d4c2)
 
